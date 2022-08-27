@@ -31,7 +31,7 @@ With helmwave you will become a superhero:
 - Step by Step deployment (depends_on, allow_failure)
 - Live tracking kubernetes resources with kubedog
 - Fetch data from external datasource like vault, aws sm
-- ... and much more!
+- .. and much more!
 
 ## 📖 [Documentation](https://helmwave.github.io/docs)
 
